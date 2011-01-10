@@ -1,0 +1,2 @@
+
+from django_pytest.test_runner import TestRunner
